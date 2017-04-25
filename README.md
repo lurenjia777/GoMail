@@ -1,0 +1,2 @@
+# GoMail
+Golang send mail
